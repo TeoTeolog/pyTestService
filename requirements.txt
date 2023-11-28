@@ -1,4 +1,3 @@
-apturl
 beautifulsoup4
 blinker
 Brlapi
